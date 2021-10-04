@@ -8,7 +8,8 @@ This is the server
 
 How this server works
 
-How To Promote:
+How To Promote:![serverconfig](https://user-images.githubusercontent.com/64604222/135788613-84d30960-59c1-472d-98c0-57323bc508bc.PNG)
+
 
 ➼  Go to content-promotion. React to 5 videos that have been promoted there after you watch at least 60%, like and comment something nice on the video. 
 
